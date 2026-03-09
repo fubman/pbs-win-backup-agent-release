@@ -19,7 +19,7 @@ Download the latest version from the [Releases](../../releases/latest) page.
 - Scheduled backups with cron expressions
 - Built-in auto-updater
 - Pause / Resume backup
-- Proxmox Backup Server compatible (FIDX/PXAR format)
+- **Proxmox Backup Server compatible (FIDX/PXAR format)**
 
 ## Installation
 
